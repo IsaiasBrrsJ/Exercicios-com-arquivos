@@ -1,0 +1,4 @@
+Aluno: isaias Nota1: 2,2 Nota2: 5,5 Média: 3,9
+Aluno: teste2 Nota1: 10,0 Nota2: 10,0 Média: 10,0
+Aluno: teste3 Nota1: 5,6 Nota2: 7,7 Média: 6,7
+Aluno: teste4 Nota1: 1,0 Nota2: 2,0 Média: 1,5
